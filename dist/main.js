@@ -1,0 +1,1 @@
+(()=>{console.log("Hello");const[o,l]=[1,2]})();
